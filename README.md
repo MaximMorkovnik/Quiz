@@ -1,4 +1,4 @@
-[**<h2>Quiz --><h2>**](https://maximmorkovnik.github.io/Quiz/)
+[**<h1>Quiz --><h1>**](https://maximmorkovnik.github.io/Quiz/)
   
 <h2>Quiz - викторина (интерактивный элемент сайта в формате опроса)</h2>
 
