@@ -116,7 +116,7 @@ const checkAnswer = el => {
     disabledOptions();
 }
 
-for (option of optionElements) {
+for (let option of optionElements) {
     option.addEventListener('click', e => checkAnswer(e));
 }
 
