@@ -2,4 +2,4 @@
   
 <h2>Quiz - викторина (интерактивный элемент сайта в формате опроса)</h2>
 
-[![wayup.in](img/logo.jpg)](https://wayup.in)
+[![wayup.in](src/images/logo.jpg)](https://wayup.in)
